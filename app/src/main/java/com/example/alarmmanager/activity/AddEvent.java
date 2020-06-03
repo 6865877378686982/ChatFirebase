@@ -116,7 +116,10 @@ public class AddEvent extends AppCompatActivity {
         edtDate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+//dfsdfdsf
+                //dfdsfdf
+                //dsfdsfdsfdsfd
+                //dfdsfdsfdsfsf
                 c2 = Calendar.getInstance();
                 mYear = c2.get(Calendar.YEAR);
                 mMonth = c2.get(Calendar.MONTH);
